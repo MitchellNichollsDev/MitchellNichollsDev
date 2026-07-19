@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Mitchell 👋
 
-<!--
-**MitchellNichollsDev/MitchellNichollsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Games Computing Student at the University of Lincoln.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on
+- Implementing Pong
+- Developing my NEW Github Account
+  
+🌱 I’m currently learning
+- C#
+- C++
+- Unity
+- Software Engineering
+- Linear Algebra
+  
+🤔 I’m looking for help with...
+- Expanding my programming knowledge.
+- Any useful resources I'd appreciate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- Email: mitchell.nicholls.dev@gmail.com
+
+Thanks for visiting my profile!
